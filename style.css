@@ -7,11 +7,30 @@ body{
 }
 
 h1{
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: #8675a9;
+    font-size: 36px;
+    letter-spacing: 4px;
+}
 
+h1:hover{
+    color: #c3aed6;
+    text-shadow: 3px 3px 3px #333333;
+}
+
+h3{
+    color: #8675a9;
 }
 
 p{
+    font-family: 'Singlet', cursive;
+    font-size: 14px;
 
+}
+
+ul{
+    font-family: 'Singlet', cursive;
+    font-size: 14px;
 }
 
 #persona{
