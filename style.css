@@ -3,34 +3,42 @@ https://colorhunt.co/palette/226670
 */
 
 body{
-    background-color: #ffe5e0;
+    background-color: #8d84a1;
 }
 
 h1{
     font-family: 'Mouse Memoirs', sans-serif;
-    color: #8675a9;
+    color: #efbbcf;
     font-size: 36px;
     letter-spacing: 4px;
 }
 
 h1:hover{
-    color: #c3aed6;
+    color: #ffd5cd;
     text-shadow: 3px 3px 3px #333333;
 }
 
 h3{
-    color: #8675a9;
+    letter-spacing: 3px;
+    font-family: 'Mouse Memoirs', sans-serif;
+    color: #efbbcf;
+}
+
+h3:hover{
+    color: #ffd5cd;
+    text-decoration: #333333 solid underline;
 }
 
 p{
     font-family: 'Singlet', cursive;
     font-size: 14px;
-
+    color: #ffd5cd;
 }
 
 ul{
     font-family: 'Singlet', cursive;
     font-size: 14px;
+    color: #ffd5cd;
 }
 
 #persona{
